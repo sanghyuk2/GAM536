@@ -1,0 +1,5 @@
+Light - How to render > Shift + Q
+Animation - Turn on 'Auto Key' -> move the cursor between 0 to 100 frame -> set the object in that frame
+만약 Time frame을 관리하고 싶으면 시계 아이콘을 클릭해서 Time Configuration을 연다 
+애니메이션 저장할 때 range 클릭하고 save file 을 클릭 후 .avi파일 형태로 저장 -> 후에 Render 클릭
+Render setup은 주전자에 톱니바퀴 있는 아이콘을 클릭하여 실행할 수 있다.
