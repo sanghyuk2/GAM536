@@ -1,0 +1,19 @@
+try(destroyDialog myUIExample )catch()
+-만약 myUIExample이 존재하면 destroyDialog, 즉 파괴하라
+
+boxColourPicker.color
+- 색 선택 하게끔 한다
+
+translations - take existing object and move
+position property와 move property의 다른점은 전자는 새롭게 세팅, 후자는 있는 포지션에 더하는 것
+
+scale object를 두 번 하는것과 object.scale을 두 번 하는것에는 전자는 결과가 중첩되지만, 후자는 한 번 변한 후 바뀌지 않는다.
+
+rotate 사용법
+rotate object angle [position]
+angle - 각도
+position - 방향
+즉 object를 어느 방향으로 얼만큼 기울일 것인가
+
+rotate도 두 번 사용하면 중복됨.
+rotate는 항상 바닥에서 위에있는 object를 바라본다 생각하면 된다.

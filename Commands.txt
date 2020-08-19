@@ -1,0 +1,7 @@
+Alt + w 는 한 화면을 확대시켜준다.
+W는 선택하고 움직이기
+E는 회전
+Hierarchy tab (3번째)에서 Affect Pivot Only를 클릭하면 무게중심을 움직일 수 있다.
+Ctrl + backspace 는 선택된 edge를 없앤다.
+Zoom extents Selected (오른쪽 밑) 을 클릭하면 잃어버린 시야에서 네 오브젝트로 돌아온다.
+Shift + w 
